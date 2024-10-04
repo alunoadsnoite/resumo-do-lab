@@ -13,3 +13,4 @@ westminster.database.windows.net
 -----
 que darei inicio a criar um banco de dados pra criaçao de um aplicativo futuramente, sobre catecismo de westminster(presbiteriano).
 Muito interessante fazer um tour virtual pela infraestrutura da Azure da Microsoft.
+Aprendi sobre computação e Rede
